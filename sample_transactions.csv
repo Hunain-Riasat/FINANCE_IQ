@@ -1,0 +1,118 @@
+date,merchant_name,category,amount,description,transaction_type,payment_method,card_type
+2025-03-01,Employer Salary,Income,4200,Monthly Salary,income,Bank Transfer,Bank Transfer
+2025-03-02,Whole Foods,Groceries,89.23,Grocery shopping,expense,Credit Card,Visa
+2025-03-02,Starbucks,Food & Dining,5.45,Morning coffee,expense,Credit Card,Mastercard
+2025-03-03,Shell Gas,Transportation,48.50,Fuel,expense,Debit Card,Debit
+2025-03-03,Netflix,Subscriptions,15.99,Netflix Subscription,expense,Credit Card,Visa
+2025-03-04,Amazon,Shopping,142.30,Online shopping,expense,Credit Card,Visa
+2025-03-04,Kroger,Groceries,67.45,Grocery shopping,expense,Credit Card,Mastercard
+2025-03-05,Uber,Transportation,22.75,Ride share,expense,Mobile Payment,Visa
+2025-03-05,CVS Pharmacy,Healthcare,28.90,Pharmacy,expense,Debit Card,Debit
+2025-03-06,Chipotle,Food & Dining,11.50,Lunch,expense,Credit Card,Mastercard
+2025-03-06,Electric Company,Utilities,145.67,Electric Bill,expense,Bank Transfer,Bank Transfer
+2025-03-06,Internet Provider,Utilities,79.99,Internet Bill,expense,Bank Transfer,Bank Transfer
+2025-03-06,Apartment Management,Rent,1850.00,Rent Payment,expense,Bank Transfer,Bank Transfer
+2025-03-06,Netflix,Subscriptions,15.99,Streaming,expense,Credit Card,Visa
+2025-03-06,Spotify,Subscriptions,12.99,Music Streaming,expense,Credit Card,Mastercard
+2025-03-06,Gym Membership,Subscriptions,50.00,Gym Membership,expense,Credit Card,Visa
+2025-03-07,Safeway,Groceries,55.20,Grocery shopping,expense,Credit Card,Mastercard
+2025-03-07,Thai Restaurant,Food & Dining,38.75,Dinner,expense,Credit Card,Amex
+2025-03-08,Hulu,Entertainment,14.99,Streaming,expense,Credit Card,Visa
+2025-03-08,Walmart,Shopping,62.30,Shopping,expense,Debit Card,Debit
+2025-03-09,Lyft,Transportation,18.50,Ride share,expense,Mobile Payment,Visa
+2025-03-09,McDonald's,Food & Dining,12.45,Fast food,expense,Credit Card,Mastercard
+2025-03-10,Costco,Groceries,105.60,Warehouse shopping,expense,Credit Card,Visa
+2025-03-10,Walgreens,Healthcare,15.30,Pharmacy,expense,Debit Card,Debit
+2025-03-11,Sushi Place,Food & Dining,52.90,Dinner,expense,Credit Card,Amex
+2025-03-11,Chevron,Transportation,52.00,Fuel,expense,Credit Card,Visa
+2025-03-12,Best Buy,Shopping,189.99,Electronics,expense,Credit Card,Visa
+2025-03-12,Trader Joe's,Groceries,62.15,Grocery shopping,expense,Credit Card,Mastercard
+2025-03-13,Disney+,Entertainment,10.99,Streaming,expense,Credit Card,Visa
+2025-03-13,Uber Eats,Food & Dining,31.20,Food delivery,expense,Mobile Payment,Mastercard
+2025-03-14,Dunkin Donuts,Food & Dining,8.30,Breakfast,expense,Credit Card,Visa
+2025-03-14,H&M,Shopping,89.75,Clothing,expense,Credit Card,Mastercard
+2025-03-15,Sprouts,Groceries,51.85,Grocery shopping,expense,Debit Card,Debit
+2025-03-15,Bus Transit,Transportation,2.75,Public transit,expense,Cash,Cash
+2025-03-16,Doctor's Office,Healthcare,95.00,Medical visit,expense,Bank Transfer,Bank Transfer
+2025-03-16,Steam,Entertainment,39.99,Video games,expense,Credit Card,Visa
+2025-03-17,Subway,Food & Dining,9.45,Lunch,expense,Credit Card,Mastercard
+2025-03-17,Target,Groceries,48.75,Grocery shopping,expense,Credit Card,Visa
+2025-03-18,Forever 21,Shopping,45.60,Clothing,expense,Credit Card,Mastercard
+2025-03-18,Gas Company,Utilities,65.40,Gas Bill,expense,Bank Transfer,Bank Transfer
+2025-03-19,Parking Garage,Transportation,15.00,Parking,expense,Cash,Cash
+2025-03-19,Concert Tickets,Entertainment,125.00,Entertainment,expense,Credit Card,Amex
+2025-03-20,KFC,Food & Dining,22.30,Takeout,expense,Credit Card,Visa
+2025-03-20,Whole Foods,Groceries,76.50,Grocery shopping,expense,Credit Card,Mastercard
+2025-03-21,Adobe Creative,Subscriptions,54.99,Software subscription,expense,Credit Card,Visa
+2025-03-21,Dental Clinic,Healthcare,250.00,Dental work,expense,Bank Transfer,Bank Transfer
+2025-03-22,Lyft,Transportation,19.80,Ride share,expense,Mobile Payment,Visa
+2025-03-22,Walmart,Shopping,55.25,Shopping,expense,Debit Card,Debit
+2025-03-23,Chipotle,Food & Dining,16.75,Lunch,expense,Credit Card,Mastercard
+2025-03-24,Kroger,Groceries,81.30,Grocery shopping,expense,Credit Card,Visa
+2025-03-24,Starbucks,Food & Dining,6.45,Coffee,expense,Mobile Payment,Visa
+2025-03-25,Shell Gas,Transportation,50.00,Fuel,expense,Credit Card,Mastercard
+2025-03-25,Unknown Merchant 5,Shopping,1250.00,Suspicious Transaction,expense,Credit Card,Visa
+2025-03-26,Spotify,Entertainment,12.99,Music,expense,Credit Card,Mastercard
+2025-03-26,Amazon,Shopping,129.99,Online purchase,expense,Credit Card,Visa
+2025-03-27,Safeway,Groceries,65.70,Grocery shopping,expense,Debit Card,Debit
+2025-03-27,Uber,Transportation,25.50,Ride share,expense,Mobile Payment,Mastercard
+2025-03-28,CVS Pharmacy,Healthcare,22.10,Pharmacy,expense,Credit Card,Visa
+2025-03-28,Pizza Hut,Food & Dining,28.40,Takeout,expense,Credit Card,Mastercard
+2025-03-29,Electric Company,Utilities,128.50,Electric Bill,expense,Bank Transfer,Bank Transfer
+2025-03-29,Internet Provider,Utilities,79.99,Internet Bill,expense,Bank Transfer,Bank Transfer
+2025-03-29,Apartment Management,Rent,1850.00,Rent Payment,expense,Bank Transfer,Bank Transfer
+2025-03-29,Netflix,Subscriptions,15.99,Streaming,expense,Credit Card,Visa
+2025-03-29,Spotify,Subscriptions,12.99,Music,expense,Credit Card,Mastercard
+2025-03-29,Gym Membership,Subscriptions,50.00,Gym,expense,Credit Card,Visa
+2025-03-30,Trader Joe's,Groceries,58.40,Grocery shopping,expense,Credit Card,Mastercard
+2025-03-30,Thai Restaurant,Food & Dining,45.30,Dinner,expense,Credit Card,Amex
+2025-03-31,Hulu,Entertainment,14.99,Streaming,expense,Credit Card,Visa
+2025-04-01,Employer Salary,Income,4200,Monthly Salary,income,Bank Transfer,Bank Transfer
+2025-04-02,Walmart,Shopping,71.45,Shopping,expense,Credit Card,Visa
+2025-04-02,Lyft,Transportation,21.30,Ride share,expense,Mobile Payment,Mastercard
+2025-04-03,McDonald's,Food & Dining,13.75,Fast food,expense,Credit Card,Visa
+2025-04-03,Costco,Groceries,105.60,Warehouse,expense,Credit Card,Mastercard
+2025-04-04,Walgreens,Healthcare,18.60,Pharmacy,expense,Debit Card,Debit
+2025-04-04,Sushi Place,Food & Dining,52.90,Dinner,expense,Credit Card,Amex
+2025-04-05,Chevron,Transportation,48.75,Fuel,expense,Credit Card,Visa
+2025-04-05,Best Buy,Shopping,245.99,Electronics,expense,Credit Card,Visa
+2025-04-06,Whole Foods,Groceries,88.50,Grocery shopping,expense,Credit Card,Mastercard
+2025-04-06,Disney+,Entertainment,10.99,Streaming,expense,Credit Card,Visa
+2025-04-07,Uber Eats,Food & Dining,38.45,Food delivery,expense,Mobile Payment,Mastercard
+2025-04-07,Dunkin Donuts,Food & Dining,7.80,Breakfast,expense,Credit Card,Visa
+2025-04-08,H&M,Shopping,76.25,Clothing,expense,Credit Card,Mastercard
+2025-04-08,Sprouts,Groceries,59.30,Grocery shopping,expense,Debit Card,Debit
+2025-04-09,Car Wash,Transportation,25.00,Car wash,expense,Cash,Cash
+2025-04-09,Doctor's Office,Healthcare,85.00,Medical visit,expense,Bank Transfer,Bank Transfer
+2025-04-10,Steam,Entertainment,35.99,Video games,expense,Credit Card,Visa
+2025-04-10,Subway,Food & Dining,10.20,Lunch,expense,Credit Card,Mastercard
+2025-04-11,Target,Groceries,48.75,Grocery shopping,expense,Credit Card,Visa
+2025-04-11,Forever 21,Shopping,52.40,Clothing,expense,Credit Card,Mastercard
+2025-04-12,Gas Company,Utilities,68.90,Gas Bill,expense,Bank Transfer,Bank Transfer
+2025-04-12,Parking Garage,Transportation,20.00,Parking,expense,Cash,Cash
+2025-04-13,Concert Tickets,Entertainment,145.00,Entertainment,expense,Credit Card,Amex
+2025-04-13,KFC,Food & Dining,19.50,Takeout,expense,Credit Card,Visa
+2025-04-14,Kroger,Groceries,72.35,Grocery shopping,expense,Credit Card,Mastercard
+2025-04-14,Microsoft 365,Subscriptions,69.99,Software,expense,Credit Card,Visa
+2025-04-15,Dental Clinic,Healthcare,280.00,Dental work,expense,Bank Transfer,Bank Transfer
+2025-04-15,Lyft,Transportation,17.20,Ride share,expense,Mobile Payment,Visa
+2025-04-16,Walmart,Shopping,83.60,Shopping,expense,Debit Card,Debit
+2025-04-16,Chipotle,Food & Dining,20.40,Lunch,expense,Credit Card,Mastercard
+2025-04-17,Whole Foods,Groceries,94.20,Grocery shopping,expense,Credit Card,Visa
+2025-04-17,Starbucks,Food & Dining,6.80,Coffee,expense,Mobile Payment,Mastercard
+2025-04-18,Shell Gas,Transportation,52.25,Fuel,expense,Credit Card,Visa
+2025-04-18,Unknown Merchant 2,Entertainment,800.00,Suspicious Transaction,expense,Credit Card,Mastercard
+2025-04-19,Spotify,Entertainment,12.99,Music,expense,Credit Card,Visa
+2025-04-19,Amazon,Shopping,156.70,Online purchase,expense,Credit Card,Mastercard
+2025-04-20,Safeway,Groceries,71.15,Grocery shopping,expense,Debit Card,Debit
+2025-04-20,Uber,Transportation,24.00,Ride share,expense,Mobile Payment,Visa
+2025-04-21,CVS Pharmacy,Healthcare,31.50,Pharmacy,expense,Credit Card,Mastercard
+2025-04-21,Pizza Hut,Food & Dining,26.80,Takeout,expense,Credit Card,Visa
+2025-04-22,Electric Company,Utilities,138.70,Electric Bill,expense,Bank Transfer,Bank Transfer
+2025-04-22,Internet Provider,Utilities,79.99,Internet Bill,expense,Bank Transfer,Bank Transfer
+2025-04-22,Apartment Management,Rent,1850.00,Rent Payment,expense,Bank Transfer,Bank Transfer
+2025-04-22,Netflix,Subscriptions,15.99,Streaming,expense,Credit Card,Visa
+2025-04-22,Spotify,Subscriptions,12.99,Music,expense,Credit Card,Mastercard
+2025-04-22,Gym Membership,Subscriptions,50.00,Gym,expense,Credit Card,Visa
+2025-04-23,Trader Joe's,Groceries,58.40,Grocery shopping,expense,Credit Card,Mastercard
+2025-04-23,Thai Restaurant,Food & Dining,45.30,Dinner,expense,Credit Card,Amex
